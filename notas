@@ -1,0 +1,30 @@
+beneficios bootstrap
+
+generar disenio responsive
+
+la primer class que vamos a utilizar en el div que hace apertura de todo es container
+
+el segundo apso es trabajar con rows
+
+<div class="container" o "container-fluid"> aca estamos creando esa primer estructura
+<div class="row"> y aca estamos trabajando con filas
+
+</div> cierre de conatainer
+</div> cierre de la row
+
+la alturad e nuestro sitio va a estar definido por la cantidad de rows y la cantidad de contenido
+porque un scrol en el eje de las Y esta ok
+
+a partir de esos dos div tenemso qe trabajar sobre un sistema de grillas
+las rows no hay cantidad, pueden ser infinitas, las que necesitamos
+pero las columnas si son definidas: 12 - que varian su ancho dependiendo del usuario movil o
+del escritorio
+
+.col-md-4
+
+md es el dispositivo (lg o xl es desktop depende del tamanio del monitor - con lg no vamos
+a tener ningun problema)
+y 4 es la cantidad de columnas que queres trabajar
+
+trabajamos con clases para decirle cuando este en una vista desktop esta foto que use 
+12 columnas pero cuando este en una vista mobile que use 4 columnas por ejemplo

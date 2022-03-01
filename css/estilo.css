@@ -1,0 +1,29 @@
+h1 {
+    color: palevioletred;
+}
+
+.navbar {
+    justify-content: flex-end;
+}
+
+.logo {
+    width: 70px;
+}
+
+.carr2 {
+    width: 400px;
+}
+
+.botonProd {
+    background-color: rgb(231, 103, 124) !important;
+    align-content: center;
+
+}
+
+.footer {
+    padding: 50px;
+}
+
+.mainSection {
+    padding: 20px;
+}
